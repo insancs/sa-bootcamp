@@ -1,2 +1,2 @@
-# sa-bootcamp
-Shift Academy Data Science Bootcamp
+# ShiftAcademy Data Science Bootcamp 
+Data Science Bootcamp materials
